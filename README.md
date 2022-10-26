@@ -6,6 +6,10 @@ Neste repositório você encontra o código de todos os projetos desenvolvidos n
 
 E abaixo você encontra informações IMPORTANTES, não deixe de ler!
 
+## Instalação do Android Studio
+
+Veja aqui o [tutorial de instalação do Android Studio](https://github.com/gilfernandesjr/disciplina_devmobile/blob/main/Manual%20de%20Instala%C3%A7%C3%A3o%20-%20Android%20Studio.pdf)
+
 ## Importando um projeto para o Android Studio
 
 Os projetos estão no formato .zip, mas para abrí-los em seu Android Studio é bem fácil!
