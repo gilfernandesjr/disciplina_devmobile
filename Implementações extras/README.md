@@ -8,3 +8,7 @@ Nesta pasta, você irá encontrar algumas modificações dos aplicativos desenvo
 
 Aplicativo desenvolvido na TA4 com a seguinte modificação:
 - Foi adicionado um Listener para cada item da lista que seleciona o item e exibe um menu popup com a opção de excluir o item da lista.
+
+## App - SharedPreferencesKotlin
+
+Implementação básica da utilização das preferências compartilhadas do Android na linguagem Kotlin.
